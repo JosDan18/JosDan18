@@ -6,4 +6,4 @@ meu nome é José daniel
  - Estou me desenvolvendo na liguagem JavaScript
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-https://drive.google.com/file/d/1-1zbSv8Jz90lk5Ha9x7HwR3S8Sui4Aim/view?usp=sharing
+https://drive.google.com/file/d/1-1zbSv8Jz90lk5Ha9x7HwR3S8Sui4Aim/view?usp=drive_link
